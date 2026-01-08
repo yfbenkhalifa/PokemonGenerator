@@ -1,4 +1,4 @@
-from datasets import Dataset
+from torch.utils.data.dataset import Dataset
 import torch.utils.data
 import numpy as np
 import matplotlib.pyplot as plt
